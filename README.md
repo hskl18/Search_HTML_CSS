@@ -9,6 +9,6 @@ CS50W's Project 0: Search. Design a front-end for Google Search, Google Image Se
 - Image Search
   <br><br>
   ![gamePlay.png](./image/ImageSearch.PNG)
-- Search
+- Advance Search
     <br><br>
     ![gamePlay.png](./image/av.PNG)
